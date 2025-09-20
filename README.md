@@ -1,4 +1,4 @@
-💳 Power BI Project – Banking Transactions Analysis
+💳 Banking Transactions Analysis Dashboard (Power BI)
 📌 Project Overview
 
 This project focuses on analyzing banking transactions and balances across different cities and time periods using Power BI. The goal is to provide interactive dashboards that allow stakeholders to explore transaction trends, balance patterns, and city-level performance for the year 2024.
